@@ -1,5 +1,5 @@
 #hw05
-##Alojando diferentes tipos de datos en un buffer
+##Alojando/Acomodando diferentes tipos de datos en un buffer
 
 Dado un arreglo de caracteres con una longitud de 1024 caracteres, utilizarlo como un buffer de datos para distintos tipos de datos.
 
